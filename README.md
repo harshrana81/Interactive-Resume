@@ -1,6 +1,6 @@
 # This is my Interactive resume
 
-simple , Responisive  resume site bulid using HTML, CSS, Javascript.
+Responisive  resume site bulid using HTML, CSS, Javascript.
 
 included Files
 
